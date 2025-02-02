@@ -1,0 +1,872 @@
+[
+    {
+        "Id": "4ba2732433eb413684523db9c33ec541",
+        "RecognitionStatus": 0,
+        "Offset": 2300000,
+        "Duration": 114000000,
+        "Channel": 0,
+        "DisplayText": "My wonderful family. I live in a house near the mountains. I have two brothers and one sister, and I was born last. My father teaches mathematics and my mother is a nurse.",
+        "NBest": [
+            {
+                "Confidence": 0.93801534,
+                "Lexical": "my wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "ITN": "my wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "MaskedITN": "my wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Display": "My wonderful family. I live in a house near the mountains. I have two brothers and one sister, and I was born last. My father teaches mathematics and my mother is a nurse.",
+                "Words": [
+                    {
+                        "Word": "my",
+                        "Offset": 2300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "wonderful",
+                        "Offset": 4700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "family",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 15900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "live",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 19500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "house",
+                        "Offset": 19900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "near",
+                        "Offset": 23500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 25100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mountains",
+                        "Offset": 26300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 41900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 42300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 44700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "brothers",
+                        "Offset": 46700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 50700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 52300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sister",
+                        "Offset": 54700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 61100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 62700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "born",
+                        "Offset": 65500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "last",
+                        "Offset": 68300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 82700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "father",
+                        "Offset": 85500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "teaches",
+                        "Offset": 88700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mathematics",
+                        "Offset": 92700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mother",
+                        "Offset": 105900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 109100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 110300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nurse",
+                        "Offset": 110700000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.87956,
+                "Lexical": "my wonderful family i lived in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "ITN": "my wonderful family i lived in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "MaskedITN": "my wonderful family i lived in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Display": "my wonderful family i lived in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Words": [
+                    {
+                        "Word": "my",
+                        "Offset": 2300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "wonderful",
+                        "Offset": 4700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "family",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 15900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lived",
+                        "Offset": 16300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 19100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 19900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "house",
+                        "Offset": 20300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "near",
+                        "Offset": 23500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 25100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mountains",
+                        "Offset": 26300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 41900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 42300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 44700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "brothers",
+                        "Offset": 46700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 50700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 52300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sister",
+                        "Offset": 54700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 61100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 62700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "born",
+                        "Offset": 65500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "last",
+                        "Offset": 68300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 82700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "father",
+                        "Offset": 85500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "teaches",
+                        "Offset": 88700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mathematics",
+                        "Offset": 92700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mother",
+                        "Offset": 105900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 109100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 110300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nurse",
+                        "Offset": 110700000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8723309,
+                "Lexical": "wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "ITN": "wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "MaskedITN": "wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Display": "wonderful family i live in a house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Words": [
+                    {
+                        "Word": "wonderful",
+                        "Offset": 2700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "family",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 15900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "live",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 19500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "house",
+                        "Offset": 19900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "near",
+                        "Offset": 23500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 25100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mountains",
+                        "Offset": 26300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 41900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 42300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 44700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "brothers",
+                        "Offset": 46700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 50700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 52300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sister",
+                        "Offset": 54700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 61100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 62700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "born",
+                        "Offset": 65500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "last",
+                        "Offset": 68300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 82700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "father",
+                        "Offset": 85500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "teaches",
+                        "Offset": 88700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mathematics",
+                        "Offset": 92700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mother",
+                        "Offset": 105900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 109100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 110300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nurse",
+                        "Offset": 110700000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.88715714,
+                "Lexical": "my wonderful family i live in house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "ITN": "my wonderful family i live in house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "MaskedITN": "my wonderful family i live in house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Display": "my wonderful family i live in house near the mountains i have two brothers and one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Words": [
+                    {
+                        "Word": "my",
+                        "Offset": 2300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "wonderful",
+                        "Offset": 4700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "family",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 15900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "live",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 18700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "house",
+                        "Offset": 19900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "near",
+                        "Offset": 23500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 25100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mountains",
+                        "Offset": 26300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 41900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 42300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 44700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "brothers",
+                        "Offset": 46700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 50700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 52300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sister",
+                        "Offset": 54700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 61100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 62700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "born",
+                        "Offset": 65500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "last",
+                        "Offset": 68300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 82700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "father",
+                        "Offset": 85500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "teaches",
+                        "Offset": 88700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mathematics",
+                        "Offset": 92700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mother",
+                        "Offset": 105900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 109100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 110300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nurse",
+                        "Offset": 110700000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8975445,
+                "Lexical": "my wonderful family i live in a house near the mountains i have two brothers in one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "ITN": "my wonderful family i live in a house near the mountains i have two brothers in one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "MaskedITN": "my wonderful family i live in a house near the mountains i have two brothers in one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Display": "my wonderful family i live in a house near the mountains i have two brothers in one sister and i was born last my father teaches mathematics and my mother is a nurse",
+                "Words": [
+                    {
+                        "Word": "my",
+                        "Offset": 2300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "wonderful",
+                        "Offset": 4700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "family",
+                        "Offset": 9100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 15900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "live",
+                        "Offset": 16300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 18700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 19500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "house",
+                        "Offset": 19900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "near",
+                        "Offset": 23500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 25100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mountains",
+                        "Offset": 26300000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 41900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 42300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 44700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "brothers",
+                        "Offset": 46700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 51100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 51900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "sister",
+                        "Offset": 54700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 61100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 62700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "was",
+                        "Offset": 63100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "born",
+                        "Offset": 65500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "last",
+                        "Offset": 68300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 82700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "father",
+                        "Offset": 85500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "teaches",
+                        "Offset": 88700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mathematics",
+                        "Offset": 92700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 104300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "mother",
+                        "Offset": 105900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 109100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 110300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "nurse",
+                        "Offset": 110700000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    }
+]
