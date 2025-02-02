@@ -1,0 +1,255 @@
+{
+    "documents": [
+        {
+            "id": "id__573",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.91,
+                "neutral": 0.08,
+                "negative": 0.01
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 58,
+                    "text": "My Wonderful Family I live in a house near the mountains. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.98,
+                        "negative": 0.02
+                    },
+                    "offset": 58,
+                    "length": 57,
+                    "text": "I have two brothers and one sister, and I was born last. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.78,
+                        "negative": 0.21
+                    },
+                    "offset": 115,
+                    "length": 75,
+                    "text": "My father teaches mathematics, and my mother is a nurse at a big hospital. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.1,
+                        "negative": 0
+                    },
+                    "offset": 190,
+                    "length": 52,
+                    "text": "My brothers are very smart and work hard in school. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.87,
+                        "neutral": 0.11,
+                        "negative": 0.02
+                    },
+                    "offset": 242,
+                    "length": 51,
+                    "text": "My sister is a nervous girl, but she is very kind. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0.76,
+                        "negative": 0.07
+                    },
+                    "offset": 293,
+                    "length": 35,
+                    "text": "My grandmother also lives with us. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 328,
+                    "length": 46,
+                    "text": "She came from Italy when I was two years old. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.72,
+                        "neutral": 0.24,
+                        "negative": 0.04
+                    },
+                    "offset": 374,
+                    "length": 49,
+                    "text": "She has grown old, but she is still very strong. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 423,
+                    "length": 25,
+                    "text": "She cooks the best food!\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 442,
+                            "length": 4,
+                            "text": "food",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/8/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 437,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.48,
+                        "neutral": 0.51,
+                        "negative": 0.02
+                    },
+                    "offset": 448,
+                    "length": 35,
+                    "text": "My family is very important to me. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.76,
+                        "neutral": 0.19,
+                        "negative": 0.05
+                    },
+                    "offset": 483,
+                    "length": 31,
+                    "text": "We do lots of things together. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.06,
+                        "negative": 0
+                    },
+                    "offset": 514,
+                    "length": 61,
+                    "text": "My brothers and I like to go on long walks in the mountains. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.03,
+                        "negative": 0
+                    },
+                    "offset": 575,
+                    "length": 45,
+                    "text": "My sister likes to cook with my grandmother. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.27,
+                        "neutral": 0.72,
+                        "negative": 0.01
+                    },
+                    "offset": 620,
+                    "length": 50,
+                    "text": "On the weekends we all play board games together. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.04,
+                        "negative": 0
+                    },
+                    "offset": 670,
+                    "length": 38,
+                    "text": "We laugh and always have a good time. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 708,
+                    "length": 27,
+                    "text": "I love my family very much.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2024-03-01"
+}
